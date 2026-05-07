@@ -2,4 +2,4 @@ Zenoke Player is a free Windows app for playing MP3+CDG karaoke files. MP4 video
 
 For more information, see [Zenoke.com](https://www.zenoke.com).
 
-![Zenoke Player, Songbook view](songbook.jpg)
+![Zenoke Player, Songbook view](z-songbook.jpg)
